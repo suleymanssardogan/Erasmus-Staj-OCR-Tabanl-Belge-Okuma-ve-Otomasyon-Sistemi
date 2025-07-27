@@ -32,6 +32,10 @@ El yazısı metinlerin OCR ile tanınması (performans kısıtlı olabilir)
 
 Belge arşivleme ve içerik kayıt sistemleri
 
+27.07.2025 
+<img width="1536" height="844" alt="image" src="https://github.com/user-attachments/assets/1249d351-5136-4ca0-bbae-245fbeed52b2" />
+
+
 👤 Geliştirici
 Süleyman Sardoğan
 Yazılım Mühendisliği 2025 Erasmus Staj Projesi
